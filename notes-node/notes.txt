@@ -1,0 +1,13 @@
+1) To use the app type command
+
+  - node app.js "command" --title="" --body=""
+
+  where command can be read, add, delete etc.
+
+2) we can use node debugger by using node inspect filename command
+
+we can also use chrome node dev tools by:
+
+ - using command "node or nodemon --inspect-brk filename command"
+ - go to chrome and chrome://inspect
+ - open dev tools
